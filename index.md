@@ -10,4 +10,4 @@ I have about 1 year of experience as a IoT Embedded Engineer at Parkzap Labs.
 
 Currently part of Google Developer community on Action on Google(AoG).
 
-Currently I'm working as a freelancer if you wanted me to help you out at something contact me.
+And I'm also working as a freelancer if you wanted me to help you out at something contact me.
